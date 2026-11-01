@@ -25,7 +25,7 @@ export default function Venue() {
         {/* questions about the day, travel or stay */}
         <div className="venue-contact" data-reveal="1" data-delay="280">
           <div className="venue-contact-kicker">Questions? Reach out to</div>
-          <div className="venue-contact-name">Abhas Tewari</div>
+          <div className="venue-contact-name">Abhas Tiwari</div>
           {phones.map((n) => (
             <div key={n.tel} className="venue-contact-row">
               <span className="venue-contact-num">{n.display}</span>

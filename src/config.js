@@ -16,5 +16,5 @@ export const invitation = {
 
   // RSVP: paste your Google Apps Script web app URL here (see README → "Save RSVPs to a spreadsheet").
   // While it is empty, RSVPs are only printed in the browser console (handy for testing).
-  rsvpSheetUrl: '',
+  rsvpSheetUrl: 'https://script.google.com/macros/s/AKfycbxcgZ3AzYBJI1cuY4snT1oq0XymhK4yVAKOmPz6D7qVac8F8hLPL3UloV6mJbTFlj0w6A/exec',
 };
