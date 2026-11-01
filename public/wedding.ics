@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Diksha and Abhas//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:diksha-abhas-varmala-20261203@wedding-invite
+DTSTAMP:20261101T000000Z
+DTSTART:20261203T153000Z
+DTEND:20261203T183000Z
+SUMMARY:Diksha & Abhas – Wedding (Varmala)
+LOCATION:Lotus Portico Club\, Jankipuram Ext\, Beside ORO City\, Lucknow
+DESCRIPTION:Varmala at 9:00 PM. With love\, the Singh & Tiwari families.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Diksha & Abhas wedding tomorrow
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
