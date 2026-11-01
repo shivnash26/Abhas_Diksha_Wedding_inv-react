@@ -10,7 +10,7 @@ export const invitation = {
 
   // Background music: put an .mp3 in public/audio/ and set its path, e.g. 'audio/our-song.mp3'.
   // Leave empty to use the soft generated tone (the music button still works).
-  musicSrc: '',
+  musicSrc: 'audio/Ainvayi Ainvayi Band Baaja Baaraat 128 Kbps.mp3',
   musicVolume: 0.5,      // 0 (silent) to 1 (full)
   musicOnOpen: true,     // start playing as soon as the envelope is opened
 
